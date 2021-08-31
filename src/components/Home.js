@@ -17,15 +17,15 @@ componentDidMount () {
   axios({
     url: 'https://cors-anywhere.herokuapp.com/https://safe-taiga-51745.herokuapp.com/locations',
     method: "GET",
-    headers: { 'Content-Type': 'application/json' }
+    headers: { 'Content-Type': 'text/plain' }
   }).then(response =>{
       this.setState({ locations: response.data.Locations })
   }).catch()
 
   axios({
-    url: 'https://cors-anywhere.herokuapp.com/https://safe-taiga-51745.herokuapp.com/mealtypes',
+    url: 'https://safe-taiga-51745.herokuapp.com/mealtypes',
     method: "GET",
-    headers: { 'Content-Type': 'application/json' }
+    headers: { 'Content-Type': 'text/plain' }
   }).then(response => {
       this.setState({ mealtype: response.data.mealtypes })
   }).catch()
