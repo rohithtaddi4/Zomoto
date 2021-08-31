@@ -1,0 +1,235 @@
+
+.hlogin {
+    position: absolute;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 500;
+    /* margin-top: -170px; */
+    color: white;
+    top: 5%;
+    margin-left: 897px;
+  }
+  .hCreate-account {
+    font-family: Poppins;
+    font-weight: 500;
+    position: absolute;
+    font-size: 19px;
+    margin-left: 970px;
+    border: solid 1px white;
+    padding: 1px;
+    color: white;
+    top: 5%;
+  }
+  .hhlogin {
+    position: absolute;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 500;
+    /* margin-top: -170px; */
+    color: white;
+    top: 5%;
+    margin-left: 885px;
+  }
+  .hhorders{
+    position: absolute;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    /* margin-top: -170px; */
+    color: white;
+    top: 5%;
+    border: solid 1px white;
+    margin-left: 1009px;
+  }
+  .hhlogout{
+    position: absolute;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    /* margin-top: -170px; */
+    color: white;
+    top: 5%;
+    border: solid 1px white;
+    margin-left: 1110px;
+  }
+  .hahead {
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    display: inline-block;
+    font-style: normal;
+    margin-right: 50px;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top: 10px;
+}
+.havalue {
+  height: 30px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+  .habox{
+    width: 260px;
+    /* margin-left: 10px; */
+    height: 104px;
+    background-color: white;
+    padding-left: 12px;
+    margin-bottom: 10px;
+    border-style: ridge;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+}
+.mgreen{
+    height: 8px;
+    border-radius: 50%;
+    width: 8px;
+    border: 1px solid;
+    background-color: green;
+}
+  .kep-login-facebook { 
+    font-family: Helvetica,sans-serif;
+    width: 254px;
+    margin-bottom: 5px;
+    padding: 7px;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: calc(.27548vw + 12.71074px);
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: background-color .3s,border-color .3s;
+    background-color: #4c69ba;
+    border: calc(.06887vw + .67769px) solid #4c69ba;
+    /* padding: calc(.34435vw + 13.38843px) calc(.34435vw + 18.38843px); */
+}
+.kep-login-facebook.metro {
+  border-radius: 0;
+  padding: 7px;
+  margin-bottom: 5px;
+}
+@media only screen and (max-width:600px) {
+  .hCreate-account {
+    font-family: Poppins;
+    font-weight: 500;
+    position: absolute;
+    font-size: 16px;
+    margin-left: 350px;
+    border: solid 1px white;
+    padding: 1px;
+    color: white;
+    top: 6%;
+  }
+  .hhlogin {
+    position: absolute;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 500;
+    /* margin-top: -170px; */
+    color: white;
+    top: 2%;
+    margin-left: 2px;
+  }
+  .hhorders{
+    position: absolute;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    /* margin-top: -170px; */
+    color: white;
+    top: 2%;
+    border: solid 1px white;
+    margin-left: 219px;
+  }
+  
+.hlogin {
+  position: absolute;
+  font-family: Poppins;
+  font-size: 17px;
+  font-weight: 500;
+  /* margin-top: -170px; */
+  color: white;
+  top: 1%;
+  margin-left: 383px;
+}
+  .hhlogout{
+    position: absolute;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    /* margin-top: -170px; */
+    color: white;
+    top: 2%;
+    border: solid 1px white;
+    margin-left: 396px;
+  }
+}
+@media only screen and (min-width:600px) and (max-width:792px) {
+  .hCreate-account {
+    font-family: Poppins;
+    font-weight: 500;
+    position: absolute;
+    font-size: 17px;
+    margin-left: 617px;
+    border: solid 1px white;
+    padding: 1px;
+    color: white;
+    top: 4%;
+  }
+  .hhlogin {
+    position: absolute;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 500;
+    /* margin-top: -170px; */
+    color: white;
+    top: 2%;
+    margin-left: 495px;
+  }
+  .hhorders{
+    position: absolute;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 500;
+    /* margin-top: -170px; */
+    color: white;
+    top: 2%;
+    border: solid 1px white;
+    margin-left: 609px;
+  }
+  
+.hlogin {
+  position: absolute;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  /* margin-top: -170px; */
+  color: white;
+  top: 4%;
+  margin-left: 555px;
+}
+  .hhlogout{
+    position: absolute;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 500;
+    /* margin-top: -170px; */
+    color: white;
+    top: 2%;
+    border: solid 1px white;
+    margin-left: 699px;
+  }
+}

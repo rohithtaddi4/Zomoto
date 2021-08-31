@@ -1,0 +1,1217 @@
+.top-block {
+  width: 1366px;
+  height: 80px;
+  background-color: #ce0505;
+}
+
+.Create-account {
+
+  display: inline-block;
+  font-family: Poppins;
+  font-weight: 500;
+  margin-top: 28px;
+  margin-left: 1000px;
+  border: solid 1px white;
+  padding: 1px;
+  color: #ffffff;
+}
+
+.login {
+  position: absolute;
+  display: inline-block;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 30px;
+  color: #ffffff;
+  margin-left: 930px;
+
+}
+
+.left-box {
+  display: inline-block;
+  width: 250px;
+  height: 623px;
+  color: #ffffff;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  margin-top: 20px;
+  margin-left: 90px;
+  margin-bottom: 13px;
+  
+}
+.filter-left-box {
+  display: inline-block;
+  position: absolute;
+  width: 250px;
+  height: 27px;
+  color: #ffffff;
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.16);
+  margin-top: 20px;
+  margin-left: 90px;
+}
+
+.right-box {
+  height: 260px;
+  width: 731px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  margin-top: 20px;
+  padding-top: 26px;
+
+}
+
+
+.heading {
+  width: 512px;
+  height: 51px;
+  margin-top: 35px;
+  margin-left: 90px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: left;
+  color: #192f60;
+}
+
+.rightBlock {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 20px;
+}
+
+.logof {
+  vertical-align: top;
+  position: absolute;
+  display: inline-block;
+  font-size: 33px;
+  margin-top: 17px;
+  background-color: white;
+  border-radius: 50%;
+  margin-left: 98px;
+  text-align: center;
+  height: 50px;
+  width: 50px;
+  color: red;
+}
+
+.Filters {
+  width: 55px;
+  height: 25px;
+  margin-left: 29px;
+  margin-top: 26px;
+  font-family: Poppins;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 600;
+  color: #112a61;
+}
+
+.Select-Location {
+  width: 106px;
+  height: 20px;
+  font-family: Poppins;
+  font-size: 14px;
+  text-align: left;
+  color: #192f60;
+  margin-left: 30px;
+  margin-top: 32px;
+}
+
+.Location-dropdownf {
+  width: 106px;
+  height: 20px;
+  margin-left: 30px;
+  font-family: Poppins;
+  font-size: 14px;
+  text-align: left;
+  color: #8c96ab;
+  margin-top: 9px;
+}
+
+.Cuisine {
+  width: 51px;
+  height: 20px;
+  margin-left: 30px;
+  font-family: Poppins;
+  font-size: 14px;
+  text-align: left;
+  color: #192f60;
+  margin-top: 17px;
+  margin-bottom: 9px;
+}
+
+.check-box {
+  width: 18px;
+  height: 18px;
+  margin-left: 29px;
+  color: #3a5075
+}
+
+.specials {
+  width: 51px;
+  height: 20px;
+  font-family: Poppins;
+  font-size: 14px;
+  text-align: left;
+  color: #8c96ab;
+  margin-left: 7px
+}
+
+.costtwo {
+  width: 89px;
+  height: 31px;
+  font-family: Poppins;
+  font-size: 14px;
+  text-align: left;
+  color: #192f60;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.r-radio {
+  width: 1366px;
+  height: 973px;
+  margin-left: 29px;
+  background-color: #fbfbfb;
+}
+
+.Los {
+  width: 106px;
+  height: 20px;
+  margin-left: 3px;
+  font-family: Poppins;
+  font-size: 14px;
+  color: #8c96ab;
+}
+
+.sorted {
+  width: 37px;
+  height: 25px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  color: #192f60;
+  margin-left: 30px;
+  margin-top: 21px;
+  margin-bottom: 14px;
+}
+
+.img {
+  margin-left: 35px;
+  display: inline-block;
+}
+
+.The-Big-Chill-Cakery {
+  position: absolute;
+  display: inline-block;
+  width: 298px;
+  height: 43px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  color: #192f60;
+  margin-left: 60px;
+}
+
+.CUISINES {
+  position: absolute;
+  width: 140px;
+  height: 118px;
+  font-family: Poppins;
+  font-size: 16px;
+  text-align: left;
+  color: #636f88;
+  margin-left: 36px;
+  margin-top: 7px;
+}
+
+.Fort {
+  position: absolute;
+  display: inline-block;
+  width: 39px;
+  height: 23px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  color: #192f60;
+  margin-left: 66px;
+  margin-top: 40px;
+}
+
+.Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+  position: relative;
+  width: 365px;
+  height: 23px;
+  font-family: Poppins;
+  font-size: 16px;
+  color: #636f88;
+  margin-left: 208px;
+  margin-top: -43px;
+  margin-bottom: 44px;
+}
+
+.cft {
+  position: absolute;
+  width: 140px;
+  height: 118px;
+  font-family: Poppins;
+  font-size: 16px;
+  text-align: left;
+  color: #636f88;
+  margin-left: 36px;
+  margin-top: 57px;
+}
+
+.bakery {
+  position: absolute;
+  width: 251px;
+  height: 69px;
+  margin-left: 247px;
+  margin-top: 24px;
+  font-family: Poppins;
+  font-size: 16px;
+  color: #192f60;
+}
+
+.last {
+  position: absolute;
+  width: 251px;
+  height: 69px;
+  margin-left: 245px;
+  margin-top: 55px;
+  font-family: Poppins;
+  font-size: 16px;
+  color: #192f60;
+}
+
+.sty {
+  margin-bottom: 7px;
+}
+
+.sty1 {
+  margin-bottom: 9px;
+}
+
+.br {
+  border-radius: 20px;
+}
+
+
+.pagination {
+  width: 530px;
+  height: 50px;
+  padding-left: 258px;
+  position: absolute;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.page1 {    
+  width: 36px;
+  display: inline-block;
+  height: 32px;
+  opacity: 0.4;
+  margin-left: 97px;
+  text-align: center;
+  margin-top: 1px;
+  border-radius: 7px;
+  border: solid 1px #8c96ab; 
+}
+.page {    
+  width: 36px;
+  display: inline-block;
+  height: 32px;
+  opacity: 0.4;
+  margin-left: 13px;
+  text-align: center;
+  margin-top: 12px;
+  border-radius: 7px;
+  border: solid 1px #8c96ab; 
+}
+.visiblespan {
+  visibility: hidden;
+  float: right; 
+  color: black;
+}
+.NRF {
+  width: 512px;
+  height: 48px;
+  margin-top: 41px;
+  margin-left: 112px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
+  color: #192f60;
+}
+
+@media only screen and (max-width:600px) {
+
+  .visiblespan {
+    visibility: visible;
+    float: right; 
+    color: black;
+  }
+  .Create-account {
+
+    display: inline-block;
+    font-family: Poppins;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: 350px;
+    border: solid 1px white;
+    padding: 1px;
+    color: #ffffff;
+  }
+
+  .login {
+    position: absolute;
+    display: inline-block;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 39px;
+    color: #ffffff;
+    margin-left: 377px;
+  }
+
+  .left-box {
+    display: inline-block;
+    width: 430px;
+    height: 537px;
+    color: #ffffff;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+    margin-top: 23px;
+    margin-left: 21px;
+    margin-bottom: 0px;
+  }
+  .right-box {
+    height: 215px;
+    width: 432px;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+    background-color: #ffffff;
+    margin-top: 20px;
+    padding-top: 14px;
+    margin-left: 2px;
+
+  }
+
+.Filters{
+  width: 55px;
+  height: 25px;
+  margin-left: 29px;
+  margin-top: 15px;
+  font-family: Poppins;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 600;
+  color: #112a61;
+}
+
+
+  .heading {    width: 512px;
+    height: 51px;
+    margin-top: 13px;
+    margin-left: 15px;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+    color: #192f60;
+  }
+
+  .rightBlock {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+  }
+
+  .logof {
+    vertical-align: top;
+    position: absolute;
+    display: inline-block;
+    font-size: 33px;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 21px;
+    text-align: center;
+    height: 45px;
+    width: 45px;
+    color: red;
+  }
+  .top-block {
+    width: 1366px;
+    height: 72px;
+    background-color: #ce0505;
+  }
+  .specials {
+    width: 51px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 7px
+  }
+
+  .costtwo {
+    width: 89px;
+    height: 31px;
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: left;
+    color: #192f60;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+
+  .r-radio {
+    width: 1366px;
+    height: 973px;
+    margin-left: 29px;
+    background-color: #fbfbfb;
+  }
+
+  .Los {
+    width: 106px;
+    height: 20px;
+    margin-left: 3px;
+    font-family: Poppins;
+    font-size: 14px;
+    color: #8c96ab;
+  }
+
+  .sorted {
+    width: 37px;
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    color: #192f60;
+    margin-left: 30px;
+    margin-top: 21px;
+    margin-bottom: 14px;
+  }
+
+  .img {
+    margin-left: 8px;
+    display: inline-block;
+  }
+
+  .The-Big-Chill-Cakery {
+    position: absolute;
+    display: inline-block;
+    width: 298px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    color: #192f60;
+    margin-left: 27px;
+  }
+  .sty {
+    margin-bottom: 5px;
+  }
+
+  .sty1 {
+    margin-bottom: 7px;
+  }
+
+  .CUISINES {
+    position: absolute;
+    width: 140px;
+    height: 118px;
+    font-family: Poppins;
+    font-size: 15px;
+    text-align: left;
+    color: #636f88;
+    margin-left: 25px;
+    margin-top: -3px;
+  }
+
+  .Fort {
+    position: absolute;
+    display: inline-block;
+    width: 39px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    color: #192f60;
+    margin-left: 32px;
+    margin-top: 38px;
+  }
+
+  .Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+    position: relative;
+    width: 365px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 15px;
+    color: #636f88;
+    margin-left: 147px;
+    margin-top: -44px;
+    margin-bottom: 35px;
+  }
+
+  .cft {
+    position: absolute;
+    width: 140px;
+    height: 118px;
+    font-family: Poppins;
+    font-size: 15px;
+    text-align: left;
+    color: #636f88;
+    margin-left: 25px;
+    margin-top: 49px;
+  }
+
+  .bakery {
+    position: absolute;
+    width: 251px;
+    height: 69px;
+    margin-left: 235px;
+    margin-top: 16px;
+    font-family: Poppins;
+    font-size: 15px;
+    color: #192f60;
+  }
+
+  .last {
+    position: absolute;
+    width: 251px;
+    height: 69px;
+    margin-left: 234px;
+    margin-top: 46px;
+    font-family: Poppins;
+    font-size: 15px;
+    color: #192f60;
+  }
+
+  .pagination {
+    width: 530px;
+    height: 50px;
+    padding-left: 150px;
+    position: absolute;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .page1 {    
+    width: 36px;
+    display: inline-block;
+    height: 32px;
+    opacity: 0.4;
+    margin-left: 27px;
+    text-align: center;
+    margin-top: 1px;
+    border-radius: 7px;
+    border: solid 1px #8c96ab; 
+  }
+  .page {    
+    width: 36px;
+    display: inline-block;
+    height: 32px;
+    opacity: 0.4;
+    margin-left: 13px;
+    text-align: center;
+    margin-top: 12px;
+    border-radius: 7px;
+    border: solid 1px #8c96ab; 
+  }
+  .filter-left-box {
+    display: inline-block;
+    width: 430px;
+    height: 27px;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+    margin-top: -10px;
+    margin-left: 21px;
+    margin-bottom: 13px;
+  }
+  .Select-Location {
+    width: 106px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: left;
+    color: #192f60;
+    margin-left: 30px;
+    margin-top: 0px;
+  }
+  
+}
+
+@media only screen and (min-width:600px) and (max-width:792px) {
+  .top-block {
+    width: 1366px;
+    height: 75px;
+    background-color: #ce0505;
+  }
+  .visiblespan {
+    visibility: hidden;
+    float: right; 
+    color: black;
+  }  
+
+  .Create-account {
+    display: inline-block;
+  font-family: Poppins;
+  font-weight: 500;
+  margin-top: 26px;
+  margin-left: 592px;
+  border: solid 1px white;
+  padding: 1px;
+  color: #ffffff;
+  }
+
+  .login {
+    position: absolute;
+  display: inline-block;
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: 500;
+  margin-top: 27px;
+  color: #ffffff;
+  margin-left: 533px;
+
+  }
+
+  .left-box {
+    display: inline-block;
+  width: 221px;
+  height: 538px;
+  color: #ffffff;
+  box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+  margin-top: 35px;
+  margin-left: 34px;
+  margin-bottom: 13px;
+  }
+  .filter-left-box {
+    display: inline-block;
+    width: 222px;
+    height: 27px;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+    margin-top: 10px;
+    margin-left: 33px;
+    margin-bottom: 13px;
+  }
+
+  .right-box {
+    height: 222px;
+    width: 440px;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+    background-color: #ffffff;
+    margin-top: 13px;
+    padding-top: 14px;
+    margin-left: -15px;
+    margin-bottom: 15px;
+
+  }
+
+
+  .heading {
+    width: 512px;
+    height: 36px;
+    margin-top: 15px;
+    margin-left: 30px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: left;
+    color: #192f60;
+  }
+
+  .rightBlock {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 38px;
+  }
+
+  .logof {
+    vertical-align: top;
+    position: absolute;
+    display: inline-block;
+    font-size: 36px;
+    margin-top: 13px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 28px;
+    text-align: center;
+    height: 48px;
+    width: 48px;
+    color: red;
+  }
+
+  .Filters {
+    width: 55px;
+  height: 25px;
+  margin-left: 30px;
+  margin-top: 30px;
+  font-family: Poppins;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 600;
+  color: #112a61;
+  }
+
+  .Cuisine {
+    width: 51px;
+    height: 20px;
+    margin-left: 30px;
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: left;
+    color: #192f60;
+    margin-top: 17px;
+    margin-bottom: 9px;
+  }
+
+
+  .costtwo {
+    width: 89px;
+    height: 31px;
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: left;
+    color: #192f60;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+
+  .Los {
+    width: 106px;
+    height: 20px;
+    margin-left: 3px;
+    font-family: Poppins;
+    font-size: 14px;
+    color: #8c96ab;
+  }
+
+  .img {
+    margin-left: 9px;
+    display: inline-block;
+  }
+
+    .The-Big-Chill-Cakery {
+      position: absolute;
+      display: inline-block;
+      width: 298px;
+      height: 43px;
+      font-family: Poppins;
+      font-size: 24px;
+      font-weight: 600;
+      color: #192f60;
+      margin-left: 18px;
+    }
+
+  .CUISINES {
+    position: absolute;
+    width: 140px;
+    height: 118px;
+    font-family: Poppins;
+    font-size: 15px;
+    text-align: left;
+    color: #636f88;
+    margin-left: 25px;
+    margin-top: -3px;
+  }
+
+  .Fort {
+    position: absolute;
+    display: inline-block;
+    width: 39px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    color: #192f60;
+    margin-left: 23px;
+    margin-top: 38px;
+  }
+
+  .Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+    position: relative;
+    width: 365px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 15px;
+    color: #636f88;
+    margin-left: 139px;
+    margin-top: -44px;
+    margin-bottom: 35px;
+  }
+
+  .cft {
+    position: absolute;
+    width: 140px;
+    height: 118px;
+    font-family: Poppins;
+    font-size: 15px;
+    text-align: left;
+    color: #636f88;
+    margin-left: 25px;
+    margin-top: 49px;
+  }
+
+  .bakery {
+    position: absolute;
+    width: 251px;
+    height: 69px;
+    margin-left: 247px;
+    margin-top: px;
+    font-family: Poppins;
+    font-size: 16px;
+    color: #192f60;
+  }
+
+  .last {
+    position: absolute;
+    width: 251px;
+    height: 69px;
+    margin-left: 245px;
+    margin-top: 47px;
+    font-family: Poppins;
+    font-size: 16px;
+    color: #192f60;
+  }
+
+  .sty {
+    margin-bottom: 5px;
+  }
+
+  .sty1 {
+    margin-bottom: 6px;
+  }
+
+  .br {
+    border-radius: 20px;
+  }
+
+  .pagination {
+    width: 530px;
+    height: 50px;
+    padding-left: 104px;
+    position: absolute;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .page1 {    
+    width: 36px;
+    display: inline-block;
+    height: 32px;
+    opacity: 0.4;
+    margin-left: 14px;
+    text-align: center;
+    margin-top: 1px;
+    border-radius: 7px;
+    border: solid 1px #8c96ab; 
+  }
+  .page {    
+    width: 36px;
+    display: inline-block;
+    height: 32px;
+    opacity: 0.4;
+    margin-left: 13px;
+    text-align: center;
+    margin-top: 12px;
+    border-radius: 7px;
+    border: solid 1px #8c96ab; 
+  }
+  .Select-Location {
+    width: 106px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: left;
+    color: #192f60;
+    margin-left: 30px;
+    margin-top: 9px;
+  }
+
+}
+
+@media only screen and (min-width:792px) and (max-width:992px) {
+  .Select-Location {
+    width: 106px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: left;
+    color: #192f60;
+    margin-left: 30px;
+    margin-top: 9px;
+  }
+  .visiblespan {
+    visibility: hidden;
+    float: right; 
+    color: black;
+  }
+  .top-block {
+    width: 1366px;
+    height: 77px;
+    background-color: #ce0505;
+  }
+
+  .Create-account {
+
+    display: inline-block;
+    font-family: Poppins;
+    font-weight: 500;
+    margin-top: 27px;
+    margin-left: 786px;
+    border: solid 1px white;
+    padding: 1px;
+    color: #ffffff;
+  }
+
+  .login {
+    position: absolute;
+    display: inline-block;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 28px;
+    color: #ffffff;
+    margin-left: 718px;
+  }
+
+  .left-box {
+    display: inline-block;
+    width: 250px;
+    height: 563px;
+    color: #ffffff;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    margin-top: 30px;
+    margin-left: 54px;
+    margin-bottom: 13px;
+  }
+  .filter-left-box {
+    display: inline-block;
+    width: 250px;
+    height: 27px;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+    margin-top: 7px;
+    margin-left: 54px;
+    margin-bottom: 13px;
+  }
+
+  .right-box {
+  height: 256;
+  width: 530px;
+  box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+  background-color: #ffffff;
+  margin-top: 9px;
+  padding-top: 26px;
+  }
+
+
+  .heading {
+    width: 512px;
+    height: 50px;
+    margin-top: 8px;
+    margin-left: 51px;
+    font-family: Poppins;
+    font-size: 34px;
+    font-weight: bold;
+    text-align: left;
+    color: #192f60;
+  }
+
+  .rightBlock {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 21px;
+  }
+
+  .logof {
+    vertical-align: top;
+    position: absolute;
+    display: inline-block;
+    font-size: 37px;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 50px;
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    color: red;
+  }
+
+  .Filters {
+    width: 55px;
+    height: 25px;
+    margin-left: 30px;
+    margin-top: 26px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 600;
+    color: #112a61;
+  }
+
+  .Cuisine {
+    width: 51px;
+    height: 20px;
+    margin-left: 30px;
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: left;
+    color: #192f60;
+    margin-top: 17px;
+    margin-bottom: 9px;
+  }
+
+  .check-box {
+    width: 18px;
+    height: 18px;
+    margin-left: 29px;
+    color: #3a5075
+  }
+
+  .costtwo {
+    width: 89px;
+    height: 31px;
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: left;
+    color: #192f60;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+
+
+  .img {
+    margin-left: 35px;
+    display: inline-block;
+  }
+
+  .The-Big-Chill-Cakery {
+    position: absolute;
+    display: inline-block;
+    width: 298px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    color: #192f60;
+    margin-left: 38px;
+  }
+
+  .CUISINES {
+    position: absolute;
+    width: 140px;
+    height: 118px;
+    font-family: Poppins;
+    font-size: 16px;
+    text-align: left;
+    color: #636f88;
+    margin-left: 36px;
+    margin-top: 7px;
+  }
+
+  .Fort {
+    position: absolute;
+    display: inline-block;
+    width: 39px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    color: #192f60;
+    margin-left: 45px;
+    margin-top: 40px;
+  }
+
+  .Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+    position: relative;
+    width: 365px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    color: #636f88;
+    margin-left: 188px;
+    margin-top: -43px;
+    margin-bottom: 44px;
+  }
+
+  .cft {
+    position: absolute;
+    width: 140px;
+    height: 118px;
+    font-family: Poppins;
+    font-size: 16px;
+    text-align: left;
+    color: #636f88;
+    margin-left: 36px;
+    margin-top: 57px;
+  }
+
+  .bakery {
+    position: absolute;
+    width: 251px;
+    height: 69px;
+    margin-left: 247px;
+    margin-top: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    color: #192f60;
+  }
+
+  .last {
+    position: absolute;
+    width: 251px;
+    height: 69px;
+    margin-left: 245px;
+    margin-top: 55px;
+    font-family: Poppins;
+    font-size: 16px;
+    color: #192f60;
+  }
+
+  .sty {
+    margin-bottom: 7px;
+  }
+
+  .sty1 {
+    margin-bottom: 9px;
+  }
+
+  .br {
+    border-radius: 20px;
+  }
+  .pagination {
+    width: 530px;
+    height: 50px;
+    padding-left: 197px;
+    position: absolute;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .page1 {    
+    width: 36px;
+    display: inline-block;
+    height: 32px;
+    opacity: 0.4;
+    margin-left: 65px;
+    text-align: center;
+    margin-top: 1px;
+    border-radius: 7px;
+    border: solid 1px #8c96ab; 
+  }
+  .page {    
+    width: 36px;
+    display: inline-block;
+    height: 32px;
+    opacity: 0.4;
+    margin-left: 13px;
+    text-align: center;
+    margin-top: 12px;
+    border-radius: 7px;
+    border: solid 1px #8c96ab; 
+  }
+
+}

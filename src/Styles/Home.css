@@ -1,0 +1,583 @@
+.item {
+  height: 140px;
+  width: 300px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  margin-left: 20px;
+  margin-bottom: 15px;
+  padding-left: 0px;
+
+}
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  left: 282%;
+  top: 36%;
+  position: absolute;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.wheading{
+  height: 43px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  margin-left: 9px;
+  margin-bottom: 5px;
+  margin-top: 12px;
+}
+
+
+.Quick-Searches {
+  width: 239px;
+  height: 43px;
+  margin: 45px 151px 7px 123px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
+  color: #192f60;
+}
+
+.Discover {
+  width: 331px;
+  height: 25px;
+  margin: 7px 59px 28px 125px;
+  font-family: Poppins;
+  font-size: 18px;
+  text-align: left;
+  color: #8c96ab;
+}
+
+.ro {
+  padding-left: 0px;
+}
+
+.Breakfast {
+  position: absolute;
+  display: inline-block;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  vertical-align: top;
+  margin-left: 18px;
+  margin-top: 26px;
+  color: #192f60;
+}
+
+.content {
+  font-family: Poppins;
+  font-size: 14px;
+  color: #8c96ab;
+}
+
+.box {
+  display: inline-block;
+  width: 113px;
+  vertical-align: top;
+  height: 68px;
+  position: absolute;
+  margin-left: 21px;
+  margin-top: 63px;
+}
+
+.logo {
+  position: absolute;
+  font-size: 60px;
+  background-color: white;
+  border-radius: 50%;
+  text-align: center;
+  height: 96px;
+  width: 96px;
+  left: 50%;
+  top: 11%;
+  color: red;
+}
+
+.Find-the-best-restaurants-cafs-and-bars {
+  position: absolute;
+  width: 754px;
+  height: 51px;
+  top: 33%;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 580;
+  line-height: 1.53;
+  color: #ffffff;
+  margin-left: 318px;
+}
+
+.Location-dropdown {
+  display: inline-block;
+    color: #8c96ab;
+    top: 274px;
+    left: 27%;
+    position: absolute;
+}
+
+.dd {
+  width: 217px;
+  height: 47px;
+  background-color: #ffffff;
+}
+
+.search {
+  width: 398px;
+  height: 47px;
+  background-color: #ffffff;
+  margin-left: 156px;
+  /* top: -56px; */
+  position: absolute;
+}
+
+li {
+  list-style: none;
+  background-color: lightgray;
+  background-image: linear-gradient(90deg, red 20px, lightgray 10px);
+  padding: 10px 15px 10px 25px;
+  border: 1px solid #CCC;
+  box-shadow: inset 1px 1px 0 rgba(255, 255, 255, 0.5);
+  margin-bottom: 5px;
+  width: 100%;
+  box-sizing: border-box;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+#text {
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 19px;
+  padding: 5px;
+  font-family: calibri light;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  background-color: lightgray;
+  color: gray;
+  padding-left: 29px;
+}
+
+#notebooks {
+  position: absolute;
+  left: 38%;
+  width: 350px;
+  border-radius: 5px;
+  max-height: 450px;
+  display: inline-block;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+  max-height: 390px;
+  overflow-y: auto;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 5px 5px 0 5px;
+  border-left: none;
+  border-right: none;
+  margin-left: 156px;
+  width: 396px;
+  margin-top: 46px;
+}
+
+#notebooks span {
+  display: block;
+  position: absolute;
+  background: #FFD32E;
+  bottom: -35px;
+  left: -1px;
+  width: 360px;
+  border-radius: 0 0 5px 5px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: inset 1px 1px rgba(255, 255, 255, 0.5);
+}
+
+@media only screen and (max-width:600px) {
+  .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    left: 92%;
+    top: 126%;
+    position: absolute;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .logo {
+      position: absolute;
+      font-size: 44px;
+      background-color: white;
+      border-radius: 50%;
+      text-align: center;
+      height: 64px;
+      width: 64px;
+      left: 45%;
+      top: 10%;
+      color: red;
+  }
+
+  .Find-the-best-restaurants-cafs-and-bars {
+      position: absolute;
+      width: 754px;
+      height: 42px;
+      top: 30%;
+      font-family: Poppins;
+      font-size: 25px;
+      font-weight: 580;
+      line-height: 1;
+      color: #ffffff;
+      margin-left: 22px;
+
+  }
+
+  .Location-dropdown {
+    display: inline-block;
+    color: #8c96ab;
+    top: 234px;
+    left: 33%;
+    position: absolute;
+  }
+
+  .dd {
+      width: 176px;
+      height: 32px;
+      margin-bottom: 11px;
+      background-color: #ffffff;
+  }
+
+  .search {
+      width: 176px;
+      height: 36px;
+      margin-top: 42px;
+      position: absolute;
+      margin-left: -66px;
+      background-color: #ffffff;
+  }
+
+  .item {
+      height: 137px;
+      width: 340px;
+      box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+      background-color: #ffffff;
+      margin-left: 54px;
+      margin-bottom: 15px;
+      padding-left: 0px;
+  }
+
+  .Quick-Searches {
+      width: 239px;
+      height: 43px;
+      margin: 45px 151px 7px 61px;
+      font-family: Poppins;
+      font-size: 25px;
+      font-weight: bold;
+      text-align: left;
+      color: #192f60;
+  }
+
+  .Discover {
+      width: 331px;
+      height: 25px;
+      margin: 7px 59px 28px 60px;
+      font-family: Poppins;
+      font-size: 16px;
+      text-align: left;
+      color: #8c96ab;
+  }
+  
+li {
+  list-style: none;
+  background-color: lightgray;
+  background-image: linear-gradient(90deg, red 20px, lightgray 10px);
+  padding: 10px 15px 10px 25px;
+  border: 1px solid #CCC;
+  box-shadow: inset 1px 1px 0 rgba(255, 255, 255, 0.5);
+  margin-bottom: 5px;
+  width: 100%;
+  box-sizing: border-box;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+#text {
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 19px;
+  padding: 5px;
+  font-family: calibri light;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  background-color: lightgray;
+  color: gray;
+  padding-left: 29px;
+}
+
+#notebooks {
+  position: absolute;
+  left: 38%;
+  width: 350px;
+  border-radius: 5px;
+  max-height: 450px;
+  display: inline-block;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+  max-height: 390px;
+  overflow-y: auto;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 5px 5px 0 5px;
+  border-left: none;
+  border-right: none;
+  margin-left: -66px;
+  width: 175px;
+  /* height: 18px; */
+  margin-top: 77px;
+}
+
+#notebooks span {
+  display: block;
+  position: absolute;
+  background: #FFD32E;
+  bottom: -35px;
+  left: -1px;
+  width: 360px;
+  border-radius: 0 0 5px 5px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: inset 1px 1px rgba(255, 255, 255, 0.5);
+}
+}
+
+@media only screen and (min-width:600px) and (max-width:792px) {
+
+  ul {
+    margin: 0 auto;
+    padding: 0;
+    max-height: 390px;
+    overflow-y: auto;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 5px 5px 0 5px;
+    border-left: none;
+    border-right: none;
+    margin-left: 143px;
+    width: 303px;
+    /* height: 18px; */
+    margin-top: 40px;
+  }
+  .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    left: 258%;
+    top: 37%;
+    position: absolute;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .logo {
+      position: absolute;
+      font-size: 55px;
+      background-color: white;
+      border-radius: 50%;
+      text-align: center;
+      height: 78px;
+      width: 78px;
+      left: 47%;
+      top: 13%;
+      color: red;
+  }
+
+  .Find-the-best-restaurants-cafs-and-bars {
+      position: absolute;
+      width: 754px;
+      height: 42px;
+      top: 35%;
+      font-family: Poppins;
+      font-size: 30px;
+      font-weight: 580;
+      line-height: 1;
+      color: #ffffff;
+      margin-left: 104px;
+  }
+
+  .Location-dropdown {
+    display: inline-block;
+    color: #8c96ab;
+    top: 262px;
+    left: 14%;
+    position: absolute;
+  }
+  
+  .dd {
+      width: 194px;
+      height: 40px;
+      background-color: #ffffff;
+  }
+  
+  .search {
+      width: 303px;
+      height: 40px;
+      background-color: #ffffff;
+      margin-left: 143px;
+      /* top: -56px; */
+      position: absolute;
+  }
+
+  .item {
+      height: 137px;
+      width: 298px;
+      box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+      background-color: #ffffff;
+      margin-left: 27px;
+      margin-bottom: 15px;
+      padding-left: 0px;
+
+  }
+
+  .Quick-Searches {
+      width: 239px;
+      height: 43px;
+      margin: 45px 151px 7px 60px;
+      font-family: Poppins;
+      font-size: 30px;
+      font-weight: bold;
+      text-align: left;
+      color: #192f60;
+  }
+
+  .Discover {
+      width: 331px;
+      height: 25px;
+      margin: 7px 59px 28px 60px;
+      font-family: Poppins;
+      font-size: 17px;
+      text-align: left;
+      color: #8c96ab;
+  }
+}
+
+@media only screen and (min-width:792px) and (max-width:992px) {
+
+  ul {
+    margin: 0 auto;
+    padding: 0;
+    max-height: 390px;
+    overflow-y: auto;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 5px 5px 0 5px;
+    border-left: none;
+    border-right: none;
+    margin-left: 158px;
+    width: 350px;
+    /* height: 18px; */
+    margin-top: 40px;
+  }
+  .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    left: 263%;
+    top: 37%;
+    position: absolute;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .logo {
+      position: absolute;
+      font-size: 58px;
+      background-color: white;
+      border-radius: 50%;
+      text-align: center;
+      height: 88px;
+      width: 88px;
+      left: 47%;
+      top: 13%;
+      color: red;
+  }
+
+  .Find-the-best-restaurants-cafs-and-bars {
+      position: absolute;
+      width: 754px;
+      height: 42px;
+      top: 35%;
+      font-family: Poppins;
+      font-size: 34px;
+      font-weight: 580;
+      line-height: 1.25;
+      color: #ffffff;
+      margin-left: 187px;
+  }
+
+  .item {
+      height: 139px;
+      width: 299px;
+      box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+      background-color: #ffffff;
+      margin-left: 27px;
+      margin-bottom: 15px;
+      padding-left: 0px;
+  }
+
+  .Quick-Searches {
+      width: 239px;
+      height: 43px;
+      margin: 45px 151px 7px 100px;
+      font-family: Poppins;
+      font-size: 30px;
+      font-weight: bold;
+      text-align: left;
+      color: #192f60;
+  }
+
+  .Discover {
+      width: 331px;
+      height: 25px;
+      margin: 7px 59px 28px 100px;
+      font-family: Poppins;
+      font-size: 17px;
+      text-align: left;
+      color: #8c96ab;
+  }
+  .Location-dropdown {
+    display: inline-block;
+    color: #8c96ab;
+    top: 274px;
+    left: 20%;
+    position: absolute;
+  }
+  
+  .dd {
+      width: 217px;
+      height: 43px;
+      background-color: #ffffff;
+  }
+  
+  .search {
+      width: 350px;
+      height: 43px;
+      background-color: #ffffff;
+      margin-left: 158px;
+      /* top: -56px; */
+      position: absolute;
+  }
+  
+}
