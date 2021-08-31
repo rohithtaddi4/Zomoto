@@ -17,7 +17,8 @@ componentDidMount () {
   axios({
     url: 'https://cors-anywhere.herokuapp.com/https://safe-taiga-51745.herokuapp.com/locations',
     method: "GET",
-    headers: { 'Content-Type': 'text/plain' }
+    credentials: 'include',
+    headers: { 'Content-Type': 'application/json' }
   }).then(response =>{
       this.setState({ locations: response.data.Locations })
   }).catch()
@@ -25,7 +26,8 @@ componentDidMount () {
   axios({
     url: 'https://safe-taiga-51745.herokuapp.com/mealtypes',
     method: "GET",
-    headers: { 'Content-Type': 'text/plain' }
+    credentials: 'include',
+    headers: { 'Content-Type': 'application/json' }
   }).then(response => {
       this.setState({ mealtype: response.data.mealtypes })
   }).catch()
