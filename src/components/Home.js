@@ -15,18 +15,16 @@ class Home extends React.Component {
 componentDidMount () {
   sessionStorage.clear('Location');{/* */}
   axios({
-    url: 'https://cors-anywhere.herokuapp.com/https://safe-taiga-51745.herokuapp.com/locations',
+    url: 'https://cors-anywhere.herokuapp.com/https://nodezom.herokuapp.com/locations',
     method: "GET",
-    credentials: 'include',
     headers: { 'Content-Type': 'application/json' }
   }).then(response =>{
       this.setState({ locations: response.data.Locations })
   }).catch()
 
   axios({
-    url: 'https://safe-taiga-51745.herokuapp.com/mealtypes',
+    url: 'https://nodezom.herokuapp.com/mealtypes',
     method: "GET",
-    credentials: 'include',
     headers: { 'Content-Type': 'application/json' }
   }).then(response => {
       this.setState({ mealtype: response.data.mealtypes })
