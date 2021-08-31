@@ -86,7 +86,7 @@ class Wallpaper extends React.Component {
                     <img src="./images/zomato.png" height="380px" width="100%" />
 
                     <div className="logo">
-                        <b>e!</b>
+                        <b>R!</b>
                     </div>
 
                     <div className="Find-the-best-restaurants-cafs-and-bars">Find the best restaurants, cafes, and bars</div>
