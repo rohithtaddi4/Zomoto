@@ -62,7 +62,7 @@ class Details extends React.Component {
       console.log(userid)
 
       axios({
-        url: `https://limitless-shore-17684.herokuapp.com/restaurantdetails/${restaurantId}`,
+        url: `https://afternoon-beach-40499.herokuapp.com/restaurantdetails/${restaurantId}`,
         method: "GET",
         headers: { 'Content-Type': 'application/json' }
       }).then(response => {
@@ -72,7 +72,7 @@ class Details extends React.Component {
     handleorders = () => {
         const { restaurantId } = this.state;
         axios({
-            url: `https://limitless-shore-17684.herokuapp.com/menuItems/${restaurantId}`,
+            url: `https://afternoon-beach-40499.herokuapp.com/menuItems/${restaurantId}`,
             method: "GET",
             headers: { 'Content-Type': 'application/json' }
           }).then(response => {
@@ -113,7 +113,7 @@ class Details extends React.Component {
         items: items.map((item)=> item.name),
       };
       axios({
-        url: 'https://limitless-shore-17684.herokuapp.com/orders',
+        url: 'https://afternoon-beach-40499.herokuapp.com/orders',
         method: "POST",
         headers: { 'Content-Type': 'application/json' },
         data: reqObj
@@ -165,7 +165,7 @@ class Details extends React.Component {
   }
 
   getData = (data) => {
-      return fetch(`https://limitless-shore-17684.herokuapp.com/payment`, {
+      return fetch(`https://afternoon-beach-40499.herokuapp.com/payment`, {
           method: "POST",
           headers: {
               Accept: "application/json",
