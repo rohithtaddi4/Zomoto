@@ -15,7 +15,7 @@ class Home extends React.Component {
 componentDidMount () {
   sessionStorage.clear('Location');{/* */}
   axios({
-    url: 'https://cors-anywhere.herokuapp.com/https://nodezom.herokuapp.com/locations',
+    url: 'https://afternoon-beach-40499.herokuapp.com/https://nodezom.herokuapp.com/locations',
     method: "GET",
     headers: { 'Content-Type': 'application/json' }
   }).then(response =>{
@@ -23,7 +23,7 @@ componentDidMount () {
   }).catch()
 
   axios({
-    url: 'https://nodezom.herokuapp.com/mealtypes',
+    url: 'https://afternoon-beach-40499.herokuapp.com',
     method: "GET",
     headers: { 'Content-Type': 'application/json' }
   }).then(response => {
