@@ -34,7 +34,7 @@ class Filter extends React.Component {
     };
     //location dd
     axios({
-      url: 'https://limitless-shore-17684.herokuapp.com/locations',
+      url: 'https://afternoon-beach-40499.herokuapp.com/locations',
       method: "GET",
       headers: { 'Content-Type': 'application/json' }
     }).then(response =>{
@@ -42,7 +42,7 @@ class Filter extends React.Component {
     }).catch()
     //filter api call with request params
     axios({
-      url: 'https://limitless-shore-17684.herokuapp.com/filter',
+      url: 'https://afternoon-beach-40499.herokuapp.com/filter',
       method: "POST",
       headers: { 'Content-Type': 'application/json' },
       data: reqObj
@@ -60,7 +60,7 @@ class Filter extends React.Component {
       hcost
     };
     axios({
-      url: 'https://limitless-shore-17684.herokuapp.com/filter',
+      url: 'https://afternoon-beach-40499.herokuapp.com/filter',
       method: "POST",
       headers: { 'Content-Type': 'application/json' },
       data: reqObj
@@ -79,7 +79,7 @@ class Filter extends React.Component {
       hcost
     };
     axios({
-      url: 'https://limitless-shore-17684.herokuapp.com/filter',
+      url: 'https://afternoon-beach-40499.herokuapp.com/filter',
       method: "POST",
       headers: { 'Content-Type': 'application/json' },
       data: reqObj
@@ -99,7 +99,7 @@ class Filter extends React.Component {
       lcost
     };
     axios({
-      url: 'https://limitless-shore-17684.herokuapp.com/filter',
+      url: 'https://afternoon-beach-40499.herokuapp.com/filter',
       method: "POST",
       headers: { 'Content-Type': 'application/json' },
       data: reqObj
@@ -128,7 +128,7 @@ class Filter extends React.Component {
       lcost
     };
     axios({
-      url: 'https://limitless-shore-17684.herokuapp.com/filter',
+      url: 'https://afternoon-beach-40499.herokuapp.com/filter',
       method: "POST",
       headers: { 'Content-Type': 'application/json' },
       data: reqObj
@@ -149,7 +149,7 @@ class Filter extends React.Component {
       pageCount: []
     };
     axios({
-      url: 'https://limitless-shore-17684.herokuapp.com/filter',
+      url: 'https://afternoon-beach-40499.herokuapp.com/filter',
       method: "POST",
       headers: { 'Content-Type': 'application/json' },
       data: reqObj
