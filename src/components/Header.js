@@ -65,7 +65,7 @@ class Header extends React.Component {
             password
           };
         axios({
-            url: 'https://limitless-shore-17684.herokuapp.com/login',
+            url: 'https://afternoon-beach-40499.herokuapp.com/login',
             method: "POST",
             headers: { 'Content-Type': 'application/json' },
             data: reqObj
@@ -93,7 +93,7 @@ class Header extends React.Component {
             password: password
           };
           axios({
-            url: 'https://limitless-shore-17684.herokuapp.com/userregistartion',
+            url: 'https://afternoon-beach-40499.herokuapp.com/userregistartion',
             method: "POST",
             headers: { 'Content-Type': 'application/json' },
             data: reqObj
@@ -110,7 +110,7 @@ class Header extends React.Component {
     showorders = () => {  //oredrs by user id api
         const { userid, orderdata } = this.state;
         axios({
-            url: `https://limitless-shore-17684.herokuapp.com/ordersByuser/${userid}`,
+            url: `https://afternoon-beach-40499.herokuapp.com/ordersByuser/${userid}`,
             method: "GET",
             headers: { 'Content-Type': 'application/json' }
           }).then(response =>{
